@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Actor Model and Data Grids
+category: articles
 ---
 
 The <a href="http://en.wikipedia.org/wiki/Actor_model">Actor Model</a> is getting a log of (much deserved) hype for the past year. With languages like Scala and Erlang pretty much leading the way in reviving it. 

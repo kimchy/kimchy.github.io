@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lakers Vs. Celtics
+category: articles
 ---
 
 While waiting (yes, another sleepless night) for the second game in the Lakers Vs. Celtics NBA finals, I remembered one of my all time favorite arcade games that I played when I was a child. It was an NBA arcade game called <a href="http://en.wikipedia.org/wiki/Lakers_vs._Celtics_and_the_NBA_Playoffs">Lakers versus Celtics</a> and it was one of the main reasons for my love for the NBA (and the Lakers).

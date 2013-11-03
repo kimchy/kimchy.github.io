@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quantum Physics and Data Grids
+category: articles
 ---
 
 One of quantum physics' crazier notions is that two particles seem to communicate with each other instantly, even when they're billions of miles apart. Albert Einstein, arguing that nothing travels faster than light, dismissed this as impossible "spooky action at a distance."

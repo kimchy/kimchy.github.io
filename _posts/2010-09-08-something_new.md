@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Something New...
+category: articles
 ---
 
 After four great years of working at GigaSpaces, I am leaving to pursue my own venture. Working at GigaSpaces is certainly one of the best things I have done in my professional life, and leaving is not a simple decision. The people, the technology, and the innovation at GigaSpaces is amazing, and I am proud to have taken part in it.

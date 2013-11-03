@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dune and Scalability
+category: articles
 ---
 
 I am reading the wonderful Dune book again. Another quote from Dune reminded me of problems we have when trying to build a scalable application:

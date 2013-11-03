@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OSGi - Still Waiting for Magnum
+category: articles
 ---
 
 I got a love and hate relationship with <a href="http://www.osgi.org/">OSGi</a>. On one hand, I think that its a great spec that provides amazing capabilities of modularization within the JVM. On the other hand, its a monstrosity, that in order to use it, you need to heavily lubricant your MANIFEST file, since you know where its going to end up at. Before you jump up and replace that MANIFEST with something else and apply it to me, let me make my point.

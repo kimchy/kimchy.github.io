@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You Know, for Search (Inc)
+category: articles
 ---
 
 When I set down to write the first lines of code for Elasticsearch, about 3 years ago, I looked at my wife and my 2 months old daughter and knew perfectly what I was getting into. Well, as Miracle Max would say, I mostly did. I knew that its going to be a commitment that will take a big chunk of my life to follow through, I knew that I was building something useful that will make developers life simple, and I knew that there is a need for something like Elasticsearch out there.
