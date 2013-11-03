@@ -14,7 +14,7 @@ Based off this theory, there has been several computer science related experimen
 
 One of the main problems of Data Grids is the ability to replicate state changes from one instance to the other, especially when using WAN. This highly ties into Brewer's CAP Theorem, which states that:
 
-bq. When designing distributed web services, there are three properties that are commonly desired: consistency, availability, and partition tolerance. It is impossible to achieve all three. In this note, we prove this conjecture in the asynchronous network model, and then discuss solutions to this dilemma in the partially synchronous model.
+> When designing distributed web services, there are three properties that are commonly desired: consistency, availability, and partition tolerance. It is impossible to achieve all three. In this note, we prove this conjecture in the asynchronous network model, and then discuss solutions to this dilemma in the partially synchronous model.
 
 What I am suggesting is that once the ability (and it very close, there are already companies building highly secure computer systems using Quantum Physics), CAP theorem will no longer be applicable.
 
