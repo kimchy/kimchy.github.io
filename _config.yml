@@ -4,7 +4,7 @@ logo:             logo.png
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://thedudeabides.com
+url:              https://thedudeabides.com
 
 # Owner/author information
 owner:
